@@ -128,12 +128,16 @@
         background-color: #fff;
         box-shadow: 0 2px 4px rgba(0, 1, 1, 0.2);
         text-align: center;
+        min-width: 250px;
     }
     
-    .item {
+    .container-item {
+        padding: 19px 35px 22px 35px;
+    }
+    /* .item {
         padding: 20px 40px;
         max-width: 23%;
-    }
+    } */
     
     .photo {
         margin-left: auto;
